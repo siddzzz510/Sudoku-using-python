@@ -40,7 +40,7 @@ puzzle = [
 Algorithm
 
 The program uses a recursive backtracking algorithm to solve the Sudoku puzzle. It checks each cell in the grid and tries possible numbers until a valid solution is found.
-
+***
 License
 
 This project is licensed under the MIT License.
